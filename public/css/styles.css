@@ -32,3 +32,9 @@ body{
 .btn-successpg{
   margin-left: 130px;
 }
+
+@media(max-width:1028px){
+  .btn-successpg{
+    margin-left:5px;
+  }
+}
