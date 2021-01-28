@@ -1,0 +1,34 @@
+.display-4{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* .jumbotron{
+  background-color: #374045;
+} */
+input{
+  margin: 20px 20px 0 20px;
+}
+
+button{
+  margin-top: 20px;
+
+}
+h4{
+  margin-top:80px;
+  color: #374045;
+}
+
+.container-fluid{
+  width:50%;
+  background-color:#e7e7de;
+
+}
+
+body{
+  background-color: #e7e7de;
+}
+
+.btn-successpg{
+  margin-left: 130px;
+}
